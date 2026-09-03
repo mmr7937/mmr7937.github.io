@@ -6,6 +6,8 @@
 
 <img src = "https://theforkedspoon.com/wp-content/uploads/2019/02/kung-pao-chicken-7-700x1050.jpg" alt = "Kung Pao Chicken with White Rice in a Ceramic Dish">
 
+<img src = "KUNGPAO.jpg" alt = "TEST">
+
 <ul>
   <li> Programming practices </li>
   <li> Have fun </li>
