@@ -6,8 +6,6 @@
 
 <img src = "https://theforkedspoon.com/wp-content/uploads/2019/02/kung-pao-chicken-7-700x1050.jpg" alt = "Kung Pao Chicken with White Rice in a Ceramic Dish">
 
-<img src = "[KUNGPAO.jpg](https://github.com/mmr7937/mmr7937.github.io/blob/main/KUNGPAO.jpg?raw=true)" alt = "TEST">
-
 <ul>
   <li> Programming practices </li>
   <li> Have fun </li>
@@ -16,10 +14,10 @@
 
 <a href = "https://www.se.rit.edu/~swen-101/activities/GitHubIOIntro.html"> SE Website </a>
 
-<title> Yug is my pookie bear. </title>
+<head> Yug is my pookie bear. </head>
 <body>
 
-<h1> Yug, my darling... </h1>
+<p> Yug, my darling... </p>
 <p> Yug makes me whole.  He is the one who holds me close and comforts me in my darkest times.  </p>
 </body>
 </html>
