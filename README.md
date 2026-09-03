@@ -13,11 +13,9 @@
 </ul>
 
 <a href = "https://www.se.rit.edu/~swen-101/activities/GitHubIOIntro.html"> SE Website </a>
-
+<p>  </p>
 <head> Yug is my pookie bear. </head>
-<body>
 
 <p> Yug, my darling... </p>
 <p> Yug makes me whole.  He is the one who holds me close and comforts me in my darkest times.  </p>
-</body>
 </html>
