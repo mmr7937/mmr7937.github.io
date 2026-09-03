@@ -1,6 +1,4 @@
 # mmr7937.github.io
-<!DOCTYPE html>
-
 <html>
 
 <head> Me. </head>
