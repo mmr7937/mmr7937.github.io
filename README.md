@@ -6,7 +6,7 @@
 
 <img src = "https://theforkedspoon.com/wp-content/uploads/2019/02/kung-pao-chicken-7-700x1050.jpg" alt = "Kung Pao Chicken with White Rice in a Ceramic Dish">
 
-<img src = "KUNGPAO.jpg" alt = "TEST">
+<img src = "[KUNGPAO.jpg](https://github.com/mmr7937/mmr7937.github.io/blob/main/KUNGPAO.jpg?raw=true)" alt = "TEST">
 
 <ul>
   <li> Programming practices </li>
